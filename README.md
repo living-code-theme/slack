@@ -5,10 +5,6 @@
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
-## Previews
-
-Real application screenshots have not been captured yet.
-
 ## Installation
 
 Open your profile picture menu → *Preferences → Appearance → Custom theme*, click *Import theme* next to *Theme Colors*, choose *Paste your legacy theme colors*, paste one of these strings and click *Apply*:
@@ -22,12 +18,10 @@ The eight colors are: column background, menu background hover, active item, act
 
 ## Flavors
 
-Expand a flavor for its full-size preview and activation instructions.
+Expand a flavor for its activation instructions.
 
 <details data-lc-flavor="night">
 <summary><strong>Night</strong> · Dark · full palette</summary>
-
-A real application capture is not available yet.
 
 Paste this in *Preferences → Appearance → Custom theme → Import theme → Paste your legacy theme colors*:
 
@@ -40,8 +34,6 @@ Paste this in *Preferences → Appearance → Custom theme → Import theme → 
 <details data-lc-flavor="frost">
 <summary><strong>Frost</strong> · Dark · softer chroma</summary>
 
-A real application capture is not available yet.
-
 Paste this in *Preferences → Appearance → Custom theme → Import theme → Paste your legacy theme colors*:
 
 ```text
@@ -53,8 +45,6 @@ Paste this in *Preferences → Appearance → Custom theme → Import theme → 
 <details data-lc-flavor="paper">
 <summary><strong>Paper</strong> · Light · near-white slate</summary>
 
-A real application capture is not available yet.
-
 Paste this in *Preferences → Appearance → Custom theme → Import theme → Paste your legacy theme colors*:
 
 ```text
@@ -65,8 +55,6 @@ Paste this in *Preferences → Appearance → Custom theme → Import theme → 
 
 <details data-lc-flavor="signal">
 <summary><strong>Signal</strong> · Dark · teal accent</summary>
-
-A real application capture is not available yet.
 
 Paste this in *Preferences → Appearance → Custom theme → Import theme → Paste your legacy theme colors*:
 
